@@ -1,7 +1,7 @@
 {
-  "name": "sell",
+  "name": "music",
   "version": "1.0.0",
-  "description": "sell app",
+  "description": "music app",
   "author": "hiaocong <773548150@qq.com>",
   "private": true,
   "scripts": {

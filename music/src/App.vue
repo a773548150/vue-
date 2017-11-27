@@ -1,13 +1,19 @@
 <template>
   <div id="app">
     <img src="./assets/logo.png">
+    {{ ms }}
     <router-view/>
   </div>
 </template>
 
 <script>
 export default {
-  name: 'app'
+  name: 'app',
+  data () {
+    return {
+      ms: 'hiaocong'
+    }
+  }
 }
 </script>
 
